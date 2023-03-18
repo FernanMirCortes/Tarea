@@ -7,3 +7,5 @@
 * [Wikipedia](https://es.wikipedia.org/wiki/Aston_Martin_en_F%C3%B3rmula_1)
 * [SoyMotor](https://soymotor.com/equipos/aston-martin)
 * [Presentacion AMR23](https://youtu.be/qnIWMAJ7TCE)
+
+[Instalacion](README.md)

@@ -30,3 +30,6 @@ En 2021 no participó en Fórmula 1
 ```
 Corrió en INDYCAR y las 24 Horas de LeMans
 ```
+
+[Intalacion](instalacion.md)
+[Informacion](informacion.md)

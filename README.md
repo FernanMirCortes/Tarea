@@ -18,7 +18,7 @@ Este ejercicio está basado en el mejor piloto piloto de la historia de España
 
 | **AÑO** |PODIUM|Carreras finalizadas|Carreras NO finalizadas |
 |---|---|---|---|
-|**2023**|1|1|0|
+|**2023**|2|2|0|
 |**2022**|0|14|8|
 |**2021**|1|20|2|
 |**2020**|0 |0|0|
